@@ -1,2 +1,3 @@
 # training
-learning hoe to use git &amp; git hub
+learning how to use git &amp; git hub
+##trying to use a bigger font
